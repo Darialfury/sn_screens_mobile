@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">e198daa687763010f31963d73cbb3591</embedded_screen>
+        <form display_value="Places Record Screen">ed98daa687763010f31963d73cbb358d</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-27 21:56:03</sys_created_on>
+        <sys_id>2198daa687763010f31963d73cbb3594</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_form_segment_2198daa687763010f31963d73cbb3594</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-27 21:56:03</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
