@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>instance_relative_url</condition_type>
+        <description>active users data item</description>
+        <group_by/>
+        <instance_relative_url_qc>{{url}}</instance_relative_url_qc>
+        <name>active users data item</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 01:25:01</sys_created_on>
+        <sys_id>c69bdddf87b63010f31963d73cbb3569</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>active users data item</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_data_item_c69bdddf87b63010f31963d73cbb3569</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 01:29:50</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c69bdddf87b63010f31963d73cbb3569"/>
+</record_update>
