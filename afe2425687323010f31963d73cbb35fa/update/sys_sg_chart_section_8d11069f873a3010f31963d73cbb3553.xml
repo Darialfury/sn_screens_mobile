@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>fed00e5f873a3010f31963d73cbb357f</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 04:08:47</sys_created_on>
+        <sys_id>8d11069f873a3010f31963d73cbb3553</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active Incidents</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_chart_section_8d11069f873a3010f31963d73cbb3553</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 04:08:47</sys_updated_on>
+        <table/>
+        <title>Active Incidents</title>
+        <type>report</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

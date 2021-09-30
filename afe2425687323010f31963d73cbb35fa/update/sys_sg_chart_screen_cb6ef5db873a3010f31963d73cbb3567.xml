@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Incident chart applet</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Chart-Bar">436ef5db873a3010f31963d73cbb3564</icon>
+        <name>Incident chart</name>
+        <report display_value="Active incident">31fd399b873a3010f31963d73cbb3562</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 03:57:11</sys_created_on>
+        <sys_id>cb6ef5db873a3010f31963d73cbb3567</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Incident chart</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_cb6ef5db873a3010f31963d73cbb3567</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 03:59:13</sys_updated_on>
+        <tool_tip>true</tool_tip>
+        <type>report</type>
+        <use_last_point>false</use_last_point>
+        <widget/>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb6ef5db873a3010f31963d73cbb3567"/>
+</record_update>

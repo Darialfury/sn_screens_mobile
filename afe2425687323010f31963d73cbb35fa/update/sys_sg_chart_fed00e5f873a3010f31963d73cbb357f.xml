@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="">{}</jump_to_screen>
+        <name>Active incidents</name>
+        <report display_value="Active incident">31fd399b873a3010f31963d73cbb3562</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 04:07:49</sys_created_on>
+        <sys_id>fed00e5f873a3010f31963d73cbb357f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active incidents</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_chart_fed00e5f873a3010f31963d73cbb357f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 04:07:49</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>
