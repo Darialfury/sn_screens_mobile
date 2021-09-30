@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_time_span_item_stream">
+    <sys_sg_time_span_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="incident task data item">daf6655b87f63010f31963d73cbb35c7</data_item>
+        <end_date_field>due_date</end_date_field>
+        <interleaved_field>sys_created_on</interleaved_field>
+        <name>Calendar incident task event stream</name>
+        <start_date_field>due_date</start_date_field>
+        <sys_class_name>sys_sg_time_span_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 02:28:32</sys_created_on>
+        <sys_id>1a99251f87f63010f31963d73cbb357b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Calendar incident task event stream</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_time_span_item_stream_1a99251f87f63010f31963d73cbb357b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 03:06:05</sys_updated_on>
+        <table>incident_task</table>
+    </sys_sg_time_span_item_stream>
+</record_update>

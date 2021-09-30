@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Go to calendar">83dee9df87f63010f31963d73cbb3507</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Go to calendar</label>
+        <location>quick_action</location>
+        <name>Go to calendar instance</name>
+        <order>10</order>
+        <parent>619f069e87323010f31963d73cbb356f</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 02:54:35</sys_created_on>
+        <sys_id>14dfe513873a3010f31963d73cbb3542</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Go to calendar instance</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_button_instance_14dfe513873a3010f31963d73cbb3542</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 02:54:35</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=14dfe513873a3010f31963d73cbb3542"/>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Calendar incident task event stream">1a99251f87f63010f31963d73cbb357b</item_stream>
+        <master_item display_value="Incident task calendar List Item Config">e247259b87f63010f31963d73cbb3511</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-30 02:59:07</sys_created_on>
+        <sys_id>8bf0bd53873a3010f31963d73cbb35bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_8bf0bd53873a3010f31963d73cbb35bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-30 02:59:07</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>
