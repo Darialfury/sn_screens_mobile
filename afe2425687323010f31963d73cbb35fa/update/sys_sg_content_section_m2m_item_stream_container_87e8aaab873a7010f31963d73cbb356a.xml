@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_content_section_m2m_item_stream_container">
+    <sys_sg_content_section_m2m_item_stream_container action="INSERT_OR_UPDATE">
+        <content_section display_value="New">91d86aab873a7010f31963d73cbb3502</content_section>
+        <item_stream_container display_value="stream container mobile presentaition">69f8eaab873a7010f31963d73cbb3544</item_stream_container>
+        <order>10</order>
+        <sys_class_name>sys_sg_content_section_m2m_item_stream_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:41:53</sys_created_on>
+        <sys_id>87e8aaab873a7010f31963d73cbb356a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_content_section_m2m_item_stream_container_87e8aaab873a7010f31963d73cbb356a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:41:53</sys_updated_on>
+    </sys_sg_content_section_m2m_item_stream_container>
+</record_update>

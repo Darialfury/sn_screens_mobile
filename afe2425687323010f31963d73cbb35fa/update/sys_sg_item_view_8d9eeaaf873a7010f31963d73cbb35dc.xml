@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>image-28090,text-28090</dependency_fields>
+        <item_view_json>{"Type":"Media-Image","CellId":"image","TitleCellId":"","SubtitleCellId":"text","Parallax":false,"DisplayType":"under","DisplayTheme":"light","FocusOnFaces":true,"Id":28090}</item_view_json>
+        <name>New static legacy card</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 02:06:49</sys_created_on>
+        <sys_id>8d9eeaaf873a7010f31963d73cbb35dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New static legacy card</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_item_view_8d9eeaaf873a7010f31963d73cbb35dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 02:07:11</sys_updated_on>
+        <table>sn_me_static_media_section</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=8d9eeaaf873a7010f31963d73cbb35dc"/>
+</record_update>

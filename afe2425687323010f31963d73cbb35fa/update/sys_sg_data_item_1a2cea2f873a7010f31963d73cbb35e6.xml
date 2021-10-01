@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>new section data item</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>new section data item</name>
+        <query_condition table="sn_me_static_media_section">titleLIKEdiomedes^EQ<item endquery="false" field="title" goto="false" newquery="false" operator="LIKE" or="false" value="diomedes"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:56:06</sys_created_on>
+        <sys_id>1a2cea2f873a7010f31963d73cbb35e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new section data item</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_data_item_1a2cea2f873a7010f31963d73cbb35e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:56:06</sys_updated_on>
+        <table>sn_me_static_media_section</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a2cea2f873a7010f31963d73cbb35e6"/>
+</record_update>
