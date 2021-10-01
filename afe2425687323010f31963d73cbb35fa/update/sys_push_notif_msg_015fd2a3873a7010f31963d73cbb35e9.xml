@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg">
+    <sys_push_notif_msg action="INSERT_OR_UPDATE">
+        <message_string>Warning, everbody run to the office!</message_string>
+        <name>push emergency message</name>
+        <push_app display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</push_app>
+        <push_message_content/>
+        <subject/>
+        <sys_class_name>sys_push_notif_msg</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 01:00:35</sys_created_on>
+        <sys_id>015fd2a3873a7010f31963d73cbb35e9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>push emergency message</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_push_notif_msg_015fd2a3873a7010f31963d73cbb35e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 01:17:31</sys_updated_on>
+        <table/>
+        <type>push</type>
+    </sys_push_notif_msg>
+</record_update>

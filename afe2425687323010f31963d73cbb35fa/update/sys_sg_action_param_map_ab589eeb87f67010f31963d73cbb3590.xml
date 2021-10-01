@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New incident">c277d6eb87f67010f31963d73cbb358e</button>
+        <item_parameter display_value="short_description">72469a6b87f67010f31963d73cbb356b</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-01 00:29:09</sys_created_on>
+        <sys_id>ab589eeb87f67010f31963d73cbb3590</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>72469a6b87f67010f31963d73cbb356b</sys_name>
+        <sys_package display_value="Mobile presentation" source="x_114992_mobile_pr">afe2425687323010f31963d73cbb35fa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile presentation">afe2425687323010f31963d73cbb35fa</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ab589eeb87f67010f31963d73cbb3590</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-01 00:29:09</sys_updated_on>
+        <ui_parameter display_value="Short description">29d712eb87f67010f31963d73cbb35b8</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
